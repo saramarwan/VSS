@@ -1,4 +1,5 @@
-# VSS VSS (Virtual Summer School)
+# VSS 
+(Virtual Summer School)
 Summary
 This project has been done to spread educational and develop it on entertaining way to mimic digital technology as in this project a virtual summer school would be built by an online game, anyone can register as a student and choose lessons that they want to study based on determination level by test in the game, and can register as a volunteers to share their knowledge in the workshop center, which it is one of building in the VSS game and there are several activiteies and options as explained later.
 What is the purpose of this game ?
